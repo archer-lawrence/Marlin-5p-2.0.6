@@ -36,3 +36,14 @@ applet/
 *.exe
 *.out
 *.app
+.pio/build/project.checksum
+.pio/build/LPC1769/.sconsign38.db.dblite
+.pio/build/LPC1769/firmware.bin
+.pio/build/LPC1769/firmware.elf
+.pio/build/LPC1769/longcmd-7d3d45cb87d2877afad0a7db35c37c73
+.pio/build/project.checksum
+.vscode/c_cpp_properties.json
+
+.vscode/
+
+.pio/
